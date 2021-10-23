@@ -3,10 +3,20 @@
   <img src='images/presentation%20image.gif' width = '1000' height = '250'>                                                                                    
 </kbd>
     </p>
+    
+<h1 align='center'> 👋 Hi and welcome to my github :blush: </h1>
 
-#  👋 Hi, I’m Martin Galliano
+# ABOUT
 
-# T E G N O L O G I A S
+Full stack developer and math teacher, I have many skills
+important to effectively perform various tasks. Among them, the most
+important and that I personally highlight, is that I learn quickly, I am curious,
+versatile but not for that inconsistent. I think that something that defines me the most is
+constancy in terms of problem solving.
+
+
+
+#  Languages and Tools:
 React.js //
 JavaScript //
 TypeScript //
