@@ -1,6 +1,8 @@
-#  👋 Hi, I’m Martin Galliano
+<p align='center'>
+<img src='images/presentation%20image.gif'  width = '1000' height = '250'>    
+</p>
 
-<img src='images/presentation%20image.gif'  width = '1000'>    
+#  👋 Hi, I’m Martin Galliano
 
 # T E G N O L O G I A S
 React.js //
