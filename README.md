@@ -37,11 +37,18 @@ constancy in terms of problem solving.
 # :briefcase: My proyects:
 <p align='left'>
   <kbd>
-    <img src='/projects/pi_videogames1.PNG' width = '300' height = '300'> 
-     <img src='/projects/pi_videogames2.PNG' width = '300' height = '300'> 
-     <img src='/projects/pi_videogames3.PNG' width = '300' height = '300'> 
+    <img src='/projects/pi_videogames1.PNG' width = '250' height = '250'> 
+     <img src='/projects/pi_videogames2.PNG' width = '250' height = '250'> 
+     <img src='/projects/pi_videogames3.PNG' width = '250' height = '250'> 
 </kbd>
     </p>
+
+# :paperclip: contact me:
+
+* [<img src='/images/e_mail.jpg' width = '100' height = '100'>](martin.galliano@hotmail.com)  
+* [<img src='/images/linkedin.png' width = '100' height = '100'>](https://www.linkedin.com/in/martin-galliano-hr/)
+
+
 
 
 <!---
