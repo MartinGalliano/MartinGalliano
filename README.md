@@ -1,9 +1,6 @@
 #  👋 Hi, I’m Martin Galliano
 
-![](images/Negro%20Blanco%20y%20Azul%20Simple%20Financiero%20Tarjeta%20de%20Presentación.gif)
-
-
-
+<img src='images/Negro%20Blanco%20y%20Azul%20Simple%20Financiero%20Tarjeta%20de%20Presentación.gif' width = '100' height = '100'  >    
 
 # T E G N O L O G I A S
 React.js //
