@@ -45,8 +45,8 @@ constancy in terms of problem solving.
 
 # :paperclip: contact me:
 
-* [<img src='/images/e_mail.jpg' width = '100' height = '100'>](martin.galliano@hotmail.com)  
-* [<img src='/images/linkedin.png' width = '100' height = '100'>](https://www.linkedin.com/in/martin-galliano-hr/)
+* [<img src='/images/e_mail.jpg' width = '50' height = '50'>](mailto:martin.galliano@hotmail.com)  
+* [<img src='/images/linkedin.png' width = '50' height = '50'>](https://www.linkedin.com/in/martin-galliano-hr/)
 
 
 
