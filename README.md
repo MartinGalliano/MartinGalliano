@@ -19,18 +19,18 @@ constancy in terms of problem solving.
 #  Languages and Tools:
 <p align='left'>
   <kbd>
-    <img src='/logos/logos.jpg' width = '200' height = '200'> 
-    <img src='/logos/react.png' width = '200' height = '200'>
-    <img src='/logos/redux.png' width = '200' height = '200'> 
-    <img src='/logos/nodejs.png' width = '200' height = '200'> 
-    <img src='/logos/sequelize.png' width = '200' height = '200'> 
-    <img src='/logos/express.png' width = '200' height = '200'> 
-    <img src='/logos/Typescript_logo_2020.svg.png' width = '200' height = '200'> 
-    <img src='/logos/PostgreSQL-Logo.png' width = '200' height = '200'> 
-    <img src='/logos/git.png' width = '200' height = '200'> 
-    <img src='/logos/bootstrap-logo-png.png' width = '200' height = '200'> 
-    <img src='/logos/' width = '200' height = '200'> 
-    <img src='/logos/' width = '200' height = '200'> 
+    <img src='/logos/logos.jpg' width = '100' height = '100'> 
+    <img src='/logos/react.png' width = '100' height = '100'>
+    <img src='/logos/redux.png' width = '100' height = '100'> 
+    <img src='/logos/nodejs.png' width = '100' height = '100'> 
+    <img src='/logos/sequelize.png' width = '100' height = '100'> 
+    <img src='/logos/express.png' width = '100' height = '100'> 
+    <img src='/logos/Typescript_logo_2020.svg.png' width = '100' height = '100'> 
+    <img src='/logos/PostgreSQL-Logo.png' width = '100' height = '100'> 
+    <img src='/logos/git.png' width = '100' height = '100'> 
+    <img src='/logos/bootstrap-logo-png.png' width = '100' height = '100'> 
+    <img src='/logos/mongo.png' width = '100' height = '100'> 
+    <img src='/logos/material_ui.png' width = '100' height = '100'> 
 </kbd>
     </p>
 
