@@ -37,9 +37,9 @@ constancy in terms of problem solving.
 # :briefcase: My proyects:
 <p align='left'>
   <kbd>
-    <img src='/projects/pi_videogames1.PNG' width = '250' height = '300'> 
-     <img src='/projects/pi_videogames2.PNG' width = '250' height = '300'> 
-     <img src='/projects/pi_videogames3.PNG' width = '250' height = '300'> 
+    <img src='/projects/pi_videogames1.PNG' width = '300' height = '300'> 
+     <img src='/projects/pi_videogames2.PNG' width = '300' height = '300'> 
+     <img src='/projects/pi_videogames3.PNG' width = '300' height = '300'> 
 </kbd>
     </p>
 
