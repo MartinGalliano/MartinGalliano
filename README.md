@@ -17,16 +17,22 @@ constancy in terms of problem solving.
 
 
 #  Languages and Tools:
-React.js //
-JavaScript //
-TypeScript //
-Node.js //
-MongoDB //
-PostgreSQL //
-HTML5 //
-css3 //
-Redux. //
-SQLite //
+<p align='left'>
+  <kbd>
+    <img src='/logos/logos.jpg' width = '200' height = '200'> 
+    <img src='/logos/react.png' width = '200' height = '200'>
+    <img src='/logos/redux.png' width = '200' height = '200'> 
+    <img src='/logos/nodejs.png' width = '200' height = '200'> 
+    <img src='/logos/sequelize.png' width = '200' height = '200'> 
+    <img src='/logos/express.png' width = '200' height = '200'> 
+    <img src='/logos/Typescript_logo_2020.svg.png' width = '200' height = '200'> 
+    <img src='/logos/PostgreSQL-Logo.png' width = '200' height = '200'> 
+    <img src='/logos/git.png' width = '200' height = '200'> 
+    <img src='/logos/bootstrap-logo-png.png' width = '200' height = '200'> 
+    <img src='/logos/' width = '200' height = '200'> 
+    <img src='/logos/' width = '200' height = '200'> 
+</kbd>
+    </p>
 
 <!---
 MartinGalliano/MartinGalliano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
