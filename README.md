@@ -1,5 +1,7 @@
 <p align='center'>
-<img src='images/presentation%20image.gif'  width = '1000' height = '250'>    
+<kbd>
+  <img src='images/presentation%20image.gif' width = '1000' height = '250 >    
+</kbd>                                                                                              
 </p>
 
 #  👋 Hi, I’m Martin Galliano
