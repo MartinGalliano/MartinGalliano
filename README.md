@@ -7,7 +7,7 @@
 <h1 align='center'> 👋 Hi and welcome to my github :blush: </h1>
 
  
-#### ABOUT
+#### About me:
 
 Full stack developer and math teacher, I have many skills
 important to effectively perform various tasks. Among them, the most
@@ -45,16 +45,21 @@ constancy in terms of problem solving.
 ![runs with Expo Go](https://img.shields.io/badge/Runs%20with%20Expo%20Go-4630EB.svg?style=flat&logo=EXPO&labelColor=f3f3f3&logoColor=000)
 
 
-# 
-## :briefcase: My proyects:
+
+## :briefcase: My projects:
+
+#### Video game project
 <p align='center'>
   <kbd>
-    <img src='/projects/pi_videogames1.PNG' width = '250' height = '300'> 
-     <img src='/projects/pi_videogames2.PNG' width = '250' height = '300'> 
-     <img src='/projects/pi_videogames3.PNG' width = '250' height = '300'> 
+    <img src='/projects/pi_videogames1.PNG' width = '300' height = '300'> 
+     <img src='/projects/pi_videogames2.PNG' width = '300' height = '300'> 
+     <img src='/projects/pi_videogames3.PNG' width = '300' height = '300'> 
 </kbd>
     </p>
 
+
+
+#### Resto book
 <p align='center'>
 <kbd> 
        <img src="projects/restobook/restos.jpeg" width="250px" height = '300'>         
@@ -72,7 +77,7 @@ constancy in terms of problem solving.
 
 # 
 
-### :paperclip: contact me:
+### :paperclip: Contact me:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:<martin.galliano@hotmail.com>) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-galliano-hr/)
