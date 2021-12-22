@@ -49,11 +49,26 @@ constancy in terms of problem solving.
 ## :briefcase: My proyects:
 <p align='center'>
   <kbd>
-    <img src='/projects/pi_videogames1.PNG' width = '250' height = '250'> 
-     <img src='/projects/pi_videogames2.PNG' width = '250' height = '250'> 
-     <img src='/projects/pi_videogames3.PNG' width = '250' height = '250'> 
+    <img src='/projects/pi_videogames1.PNG' width = '250' height = '300'> 
+     <img src='/projects/pi_videogames2.PNG' width = '250' height = '300'> 
+     <img src='/projects/pi_videogames3.PNG' width = '250' height = '300'> 
 </kbd>
     </p>
+
+<p align='center'>
+<kbd> 
+       <img src="projects/restobook/restos.jpeg" width="250px" height = '300'>         
+       <img src="projects/restobook/Register-resto.jpeg" width="250px" height = '300'>    
+       <img src="projects/restobook/Resto-Details.jpeg" width="250px" height = '300'>    
+       </kbd>
+  </p>
+  <p align='center'>
+  <kbd> 
+      <img src="projects/restobook/Menu.jpeg" width="277px" height = '300'>        
+      <img src="projects/restobook/geolocation.jpeg" width="250px" height = '300'> 
+      <img src="projects/restobook/UserProfile.jpeg" width="250px" height = '300'> 
+  </kbd>
+</p>
 
 # 
 
