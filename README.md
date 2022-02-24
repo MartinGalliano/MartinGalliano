@@ -51,7 +51,7 @@ constancy in terms of problem solving.
 #### Video game project
 <p align='center'>
   <kbd>
-    <img src='/projects/pi_videogames1.PNG' width = '250' height = '300'> 
+    <img src='/projects/pi_videogames1.PNG' width = '30%'> 
      <img src='/projects/pi_videogames2.PNG' width = '250' height = '300'> 
      <img src='/projects/pi_videogames3.PNG' width = '250' height = '300'> 
 </kbd>
@@ -67,7 +67,8 @@ constancy in terms of problem solving.
        <img src="projects/restobook/Resto-Details.jpeg" width="250px" height = '300'>    
        </kbd>
   </p>
-  <p align='center'>
+#### Tech-C 
+ <p align='center'>
   <kbd> 
       <img src="projects/restobook/Menu.jpeg" width="277px" height = '300'>        
       <img src="projects/restobook/geolocation.jpeg" width="250px" height = '300'> 
