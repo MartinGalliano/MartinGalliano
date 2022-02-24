@@ -64,8 +64,7 @@ constancy in terms of problem solving.
 <kbd> 
        <img src="projects/restobook/restos.jpeg" width="20%">         
        <img src="projects/restobook/Register-resto.jpeg" width="20%">    
-       <img src="projects/restobook/Resto-Details.jpeg" width="20%" >    
-       <img src="projects/restobook/Menu.jpeg" width="20%" >        
+       <img src="projects/restobook/Resto-Details.jpeg" width="20%" >          
       <img src="projects/restobook/geolocation.jpeg" width="20%" > 
       <img src="projects/restobook/UserProfile.jpeg" width="20%" >     
   </kbd>
