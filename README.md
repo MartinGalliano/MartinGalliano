@@ -51,9 +51,9 @@ constancy in terms of problem solving.
 #### Video game project
 <p align='center'>
   <kbd>
-    <img src='/projects/pi_videogames1.PNG' width = '35%'> 
-     <img src='/projects/pi_videogames2.PNG' width = '35%' > 
-     <img src='/projects/pi_videogames3.PNG' width = '35%'> 
+    <img src='/projects/pi_videogames1.PNG' width = '33%'> 
+     <img src='/projects/pi_videogames2.PNG' width = '33%' > 
+     <img src='/projects/pi_videogames3.PNG' width = '33%'> 
 </kbd>
     </p>
 
