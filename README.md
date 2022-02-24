@@ -62,9 +62,9 @@ constancy in terms of problem solving.
 #### Resto book
 <p align='center'>
 <kbd> 
-       <img src="projects/restobook/restos.jpeg" width="30%">         
-       <img src="projects/restobook/Register-resto.jpeg" width="30%">    
-       <img src="projects/restobook/Resto-Details.jpeg" width="30%" >    
+       <img src="projects/restobook/restos.jpeg" width="20%">         
+       <img src="projects/restobook/Register-resto.jpeg" width="20%">    
+       <img src="projects/restobook/Resto-Details.jpeg" width="20%" >    
        </kbd>
   </p>
   
