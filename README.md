@@ -73,9 +73,9 @@ constancy in terms of problem solving.
  
  <p align='center'>
   <kbd> 
-      <img src="projects/Tech-C/loginCaptura.JPG" width="35%">        
-      <img src="projects/Tech-C/Captura.jfif" width="35%"> 
-      <img src="projects/Tech-C/Captura2.jfif" width="35%"> 
+      <img src="projects/Tech-C/loginCaptura.JPG" width="33%">        
+      <img src="projects/Tech-C/Captura.jfif" width="33%"> 
+      <img src="projects/Tech-C/Captura2.jfif" width="33%"> 
   </kbd>
 </p>
 
