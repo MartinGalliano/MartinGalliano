@@ -1,6 +1,6 @@
 <p align='center'>
   <kbd>
-  <img src='images/presentation%20image.gif' width = '1000' height = '300'>                                                                                    
+  <img src='images/presentation%20image.gif' width = '100' height = '300'>                                                                                    
 </kbd>
     </p>
     
